@@ -16,4 +16,9 @@ public class Main {
     public String greet() {
         return "Hello";
     }
+
+    @GetMapping("/tul")
+    public String greet() {
+        return "Hello";
+    }
 }
