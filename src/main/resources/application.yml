@@ -1,0 +1,8 @@
+#เปลี่ยนเลข port
+server:
+  port: 3000
+
+# ประเภทการ return หน้าเว็ป
+#spring:
+#  main:
+#    web-application-type: none
